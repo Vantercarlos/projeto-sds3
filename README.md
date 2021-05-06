@@ -4,6 +4,8 @@
 >  *Crie um app inédito para seu portfólio com as tecnologias mais demandadas do mercado*
 >
 > *Participei do evento com objetivo de aprender uma nova tecnologia, React*
+> *O conteúdo do evento esstá muito claro é objetivo, comunidade no discord ativa, suporte rápido é dinâmico*
+> *Parabéns equipe da DevSuperior*
 
 ## Realização
 [DevSuperior - Escola de programação](https://devsuperior.com.br)
@@ -21,4 +23,4 @@
 
 ### 5) Git e Github para iniciantes
 
-Todos os creditos ao criador do evendo ## Nelio Alves
+Todos os creditos ao criador do evendo Nelio Alves
